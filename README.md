@@ -1,5 +1,5 @@
 # java-examples
-给用户java使用nacos样例， 每个阿里微服务子领域可以直接查看对应github下面样例，这个分组会做一个综合使用mse云产品的样例
+给用户java使用阿里微服务样例， 每个阿里微服务子领域可以直接查看对应github下面样例，这个分组会做一个综合使用mse云产品的样例
 
 
 ## Spring-cloud-alibaba
